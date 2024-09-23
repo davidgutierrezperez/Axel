@@ -2,16 +2,11 @@
 
 ## Descripción del problema
 
-Los atletas de cualquier deporte se preparan durante años para llegar a lo más alto, lo cual dependerá única y exclusivamente de su rendimiento físico. Sin embargo, en ciertos deportes, especialmente en aquellos que se practican al aire libre y en diversos lugares puede haber múltiples factores que influyen en el rendimiento del atleta. Uno de estos deportes es el atletismo.
-
-Como presidente de un club atletismo, tengo la necesidad de encontrar las mejores pruebas/carreras que se adapten a las características de mis atletas para asegurar el mejor resultado posible. Para ello, necesito una forma de analizar las diversas caracteríticas (desnivel, inclinación media, número de giros, altitud, temperatura, viento, otros competidores) de las múltiples pruebas disponibles para encontrar aquellas puedan permitir a mis atletas desempeñar su máximo potencial. Esto implica tener en cuenta tanto las fortalezas como las debilidades de cada atleta y cómo interactúan con las condiciones específicas de cada carrera.
+En el atletismo, tanto corredores como aquellas atletas que realizan pruebas que no implican correr realizan múltiples pruebas al año en diferentes competiciones y lugares. Como presidente de un club atletismo, necesito ser capaz de predecir los posibles resultados de mis atletas en función de las marcas realizadas en años, pruebas anteriores y rankings mundiales, así como sus posibilidades de mejorar, ganar e incluso batir algún record.
 
 ### Objetivos del proyecto
 
-- Mostrar un conjunto de pruebas/carreras en función de las características seleccionadas.
+- Procesar información de pruebas realizadas por cada uno de los atletas en función del evento, así como del lugar de competición.
 
-- Hacer pequeñas predicciones acerca de las posibilidades de victoria o tiempo a realizar en función de las condiciones de la prueba y del atleta.
-
-## Fuentes de información
-
-- Repositorio de la *World Athletics*: [Github](https://github.com/thomascamminady/world-athletics-database/tree/main)
+- Realizar pequeñas prediciones acerca de los tiempos a realizar por los atletas en según el evento, prueba y competidores habituales. 
+ 
