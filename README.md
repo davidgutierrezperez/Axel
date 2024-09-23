@@ -11,3 +11,7 @@ Como presidente de un club atletismo, tengo la necesidad de encontrar las mejore
 - Mostrar un conjunto de pruebas/carreras en función de las características seleccionadas.
 
 - Hacer pequeñas predicciones acerca de las posibilidades de victoria o tiempo a realizar en función de las condiciones de la prueba y del atleta.
+
+## Fuentes de información
+
+- Repositorio de la *World Athletics*: [Github](https://github.com/thomascamminady/world-athletics-database/tree/main)
