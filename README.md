@@ -1,17 +1,21 @@
-# Axel
+# Problema
 
+Soy un promotor inmobiliario que busca expandir su actividad en la ciudad de Almería. Para tomar decisiones informadas, necesitamos identificar cuáles son las mejores zonas para desarrollar nuevas edificaciones. Esto implica no solo seleccionar áreas con alto potencial de demanda, sino también estimar los costes de construcción y los posibles beneficios a largo plazo, tanto para la venta como para el alquiler de las viviendas. Por lo tanto, es fundamental obtener información sobre vivienda y urbanismo que nos permita comprender las tendencias del mercado, los patrones de crecimiento urbano, la demanda actual y futura de viviendas, y la rentabilidad esperada en distintas ubicaciones de la ciudad. El objetivo final es encontrar las áreas que ofrezcan las mejores oportunidades de inversión y maximizar los rendimientos del proyecto.
 
+## Desafios del problema
 
-## Descripción del problema
+- Extraer y analizar los datos de precios de viviendas (por barrio/zonas):
+  
+  - Coste del $m^2$ .
+  
+  - Variaciones mensuales, trimestrales y anuales.
+  
+  - Alquier medio.
 
-Los atletas de cualquier deporte se preparan durante años para llegar a lo más alto, lo cual dependerá única y exclusivamente de su rendimiento físico. Sin embargo, en ciertos deportes, especialmente en aquellos que se practican al aire libre y en diversos lugares puede haber múltiples factores que influyen en el rendimiento del atleta. Uno de estos deportes es el atletismo.
+- Extraer y analizar datos acerca de los costes de construcción en la zona.
 
+- Extraer y analizar datos acerca de las zonas con mayor tendencia de expansión.
 
+- Predecir el posible coste de edificación (compra del terreno y construcción).
 
-Como presidente de un club atletismo, tengo la necesidad de encontrar las mejores pruebas/carreras que se adapten a las características de mis atletas para asegurar el mejor resultado posible. Para ello, necesito una forma de analizar las diversas caracteríticas (desnivel, inclinación media, número de giros, altitud, temperatura, viento, otros competidores) de las múltiples pruebas disponibles para encontrar aquellas puedan permitir a mis atletas desempeñar su máximo potencial. Esto implica tener en cuenta tanto las fortalezas como las debilidades de cada atleta y cómo interactúan con las condiciones específicas de cada carrera.
-
-### Objetivos
-
-- Mostrar un conjunto de pruebas/carreras en función de las características seleccionadas.
-
-- Hacer pequeñas predicciones acerca de las posibilidades de victoria o tiempo a realizar en función de las condiciones de la prueba y del atleta.
+Al disponer de una infraestructura en la nube se pueden almacenar y actualizar los datos de forma centralizada, permitiendo al cliente disponer de estos y resultados en cualquier momento y lugar.
