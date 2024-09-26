@@ -1,12 +1,21 @@
-# Axel
+# Problema
 
-## Descripción del problema
+Soy un promotor inmobiliario que busca expandir su actividad en la ciudad de Almería, para ello requerimos de analizar los datos de viviendo y urbanismo de forma que seamos capaces de identificar las mejores zonas para llevar a cabo nuevas edificaciones, así como predecedir los costes y los potenciales beneficios y rendimiento que se pueden obtener a largo plazo, ya sea mediante la venta o alquier de las viviendas a construir.
 
-En el atletismo, tanto corredores como aquellas atletas que realizan pruebas que no implican correr realizan múltiples pruebas al año en diferentes competiciones y lugares. Como presidente de un club atletismo, necesito ser capaz de predecir los posibles resultados de mis atletas en función de las marcas realizadas en años, pruebas anteriores y rankings mundiales, así como sus posibilidades de mejorar, ganar e incluso batir algún record.
+## Desafios del problema
 
-### Objetivos del proyecto
+- Analizar los datos de precios de viviendas (por barrio/zonas):
+  
+  - Coste del $m^2$ .
+  
+  - Variaciones mensuales, trimestrales y anuales.
+  
+  - Alquier medio.
 
-- Procesar información de pruebas realizadas por cada uno de los atletas en función del evento, así como del lugar de competición.
+- Analizar los costes de construcción en la zona.
 
-- Realizar pequeñas prediciones acerca de los tiempos a realizar por los atletas en según el evento, prueba y competidores habituales. 
- 
+- Analizar las zonas con mayor tendencia de expansión.
+
+- Predecir el posible coste de edificación (compra del terreno y construcción).
+
+Al disponer de una infraestructura en la nube se pueden almacenar y actualizar los datos de forma centralizada, permitiendo al cliente disponer de estos y resultados en cualquier momento y lugar.
