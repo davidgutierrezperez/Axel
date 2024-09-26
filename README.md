@@ -1,10 +1,10 @@
 # Problema
 
-Soy un promotor inmobiliario que busca expandir su actividad en la ciudad de Almería, para ello requerimos de analizar los datos de viviendo y urbanismo de forma que seamos capaces de identificar las mejores zonas para llevar a cabo nuevas edificaciones, así como predecedir los costes y los potenciales beneficios y rendimiento que se pueden obtener a largo plazo, ya sea mediante la venta o alquier de las viviendas a construir.
+Soy un promotor inmobiliario que busca expandir su actividad en la ciudad de Almería. Para tomar decisiones informadas, necesitamos identificar cuáles son las mejores zonas para desarrollar nuevas edificaciones. Esto implica no solo seleccionar áreas con alto potencial de demanda, sino también estimar los costes de construcción y los posibles beneficios a largo plazo, tanto para la venta como para el alquiler de las viviendas. Por lo tanto, es fundamental obtener información sobre vivienda y urbanismo que nos permita comprender las tendencias del mercado, los patrones de crecimiento urbano, la demanda actual y futura de viviendas, y la rentabilidad esperada en distintas ubicaciones de la ciudad. El objetivo final es encontrar las áreas que ofrezcan las mejores oportunidades de inversión y maximizar los rendimientos del proyecto.
 
 ## Desafios del problema
 
-- Analizar los datos de precios de viviendas (por barrio/zonas):
+- Extraer y analizar los datos de precios de viviendas (por barrio/zonas):
   
   - Coste del $m^2$ .
   
@@ -12,9 +12,9 @@ Soy un promotor inmobiliario que busca expandir su actividad en la ciudad de Alm
   
   - Alquier medio.
 
-- Analizar los costes de construcción en la zona.
+- Extraer y analizar datos acerca de los costes de construcción en la zona.
 
-- Analizar las zonas con mayor tendencia de expansión.
+- Extraer y analizar datos acerca de las zonas con mayor tendencia de expansión.
 
 - Predecir el posible coste de edificación (compra del terreno y construcción).
 
